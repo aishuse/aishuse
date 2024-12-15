@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aiswarya
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python-Django-Angular
+- 🌱 I’m currently learning Data Science and analytics
 - 📫 How to reach me aiswarya180@gmail.com
 
 <!---
